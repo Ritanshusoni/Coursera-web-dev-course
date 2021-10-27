@@ -1,2 +1,2 @@
 # Coursera-web-dev-course
-Web dev course on coursera
+This is a solution for module 2 of web-dev course on coursera.
