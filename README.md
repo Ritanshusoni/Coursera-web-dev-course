@@ -1,2 +1,2 @@
 # Coursera-web-dev-course
-This is a solution for module 2 of web-dev course on coursera.
+This is s solution directory for the web-dev course on coursera.
